@@ -1,4 +1,4 @@
-# [Restaurant Georgia Website](Restaurant Georgia Website "https://abhishek-soren.github.io/Restaurant-Georgia/")
+# [Restaurant Georgia Website](https://abhishek-soren.github.io/Restaurant-Georgia/ "Restaurant Georgia Website" )
 
 Welcome to the **Restaurant Georgia** website repository. This project showcases the online presence of Restaurant Georgia, featuring information about our cuisine, location, and more.
 
